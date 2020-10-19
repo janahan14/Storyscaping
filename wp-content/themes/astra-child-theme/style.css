@@ -1,0 +1,17 @@
+/*
+ Theme Name:   Astra Child Theme
+ Theme URI:    http://thlang.janahan.dk/astra-child-theme/
+ Description:  Astra child theme based on the parent theme
+ Author:       Janahan, Mano and Simone
+ Author URI:   http://thlang.janahan.dk
+ Template:     astra
+ Version:      1.1.2
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  nevechild
+*/ 
+
+body {
+  background-color: purple;
+}
