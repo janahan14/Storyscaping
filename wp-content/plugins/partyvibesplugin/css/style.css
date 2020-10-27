@@ -9,7 +9,7 @@ body {
     height: auto !important; 
     position: absolute !important;
     padding: 30px 30px 10px 30px !important;
-    background: #fff;
+    background: #D4D6D3;
     left: 35% !important;
     margin-top: -18% !important;
     -webkit-transform: translateX(-50%) translateY(-50%) !important;
@@ -23,7 +23,7 @@ body {
 }
 
 #velkommen {
-    color: #1f1f1f;
+    color: #005780;
     font-family: 'Montserrat', sans-serif;
     text-transform: none;
 }
@@ -79,7 +79,7 @@ input[type="email"]:focus {
     right: 10px !important;
     top: 0px !important;
     padding-top: 12px !important;
-    color: #005780 !important;
+    color: #E6A117 !important;
 }
 
 input[type="button"] {
@@ -93,6 +93,7 @@ input[type="button"] {
     border: 2px solid #005780 !important;
     font-weight: 600;
     cursor: pointer;
+    
 }
 
 input[type="submit"] {
@@ -148,6 +149,7 @@ input[type="submit"]:hover {
     width: 35px;
     height: 35px;
     text-align: center;
+    text-decoration-color: white;
 }
 
 
