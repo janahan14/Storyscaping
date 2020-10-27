@@ -14,7 +14,7 @@ body {
     margin-top: -18% !important;
     -webkit-transform: translateX(-50%) translateY(-50%) !important;
     transform: translateX(-50%) translateY(-50%) !important;
-    border: 5px solid #4bb9b4 !important;
+    border: 5px solid #012D4F !important;
 }
 
 #logo {
@@ -24,8 +24,8 @@ body {
 
 #velkommen {
     color: #1f1f1f;
-    margin-left: 25% !important;
     font-family: 'Montserrat', sans-serif;
+    text-transform: none;
 }
 
 #tilmeld {
@@ -34,6 +34,7 @@ body {
     font-size: 14px;
     margin-top: 5% !important;
     font-family: 'Montserrat', sans-serif;
+    text-transform: none;
 }
 
 .form {
@@ -54,7 +55,7 @@ input[type="email"] {
     font-family: 'Montserrat', sans-serif;
     text-align: center !important;
     margin-bottom: 5% !important;
-    border: 2px solid #4bb9b4 !important;
+    border: 2px solid #005780 !important;
 }
 
 ::-webkit-input-placeholder {
@@ -70,7 +71,7 @@ input[type="email"] {
 }
 
 input[type="email"]:focus {
-    border: 2px solid #4bb9b4 !important;
+    border: 2px solid #005780 !important;
 }
 
 .fas {
@@ -78,7 +79,7 @@ input[type="email"]:focus {
     right: 10px !important;
     top: 0px !important;
     padding-top: 12px !important;
-    color: #4bb9b4 !important;
+    color: #005780 !important;
 }
 
 input[type="button"] {
@@ -89,7 +90,7 @@ input[type="button"] {
     font-size: 14px;
     color: #1f1f1f !important;
     outline: none;
-    border: 2px solid #4bb9b4 !important;
+    border: 2px solid #005780 !important;
     font-weight: 600;
     cursor: pointer;
 }
@@ -97,7 +98,7 @@ input[type="button"] {
 input[type="submit"] {
   	width: 100%;
     height: 50px;
-    background: #4bb9b4 !important;
+    background: #005780 !important;
     font-size: 16px;
     color: #fff;
     text-align: center;
@@ -109,20 +110,20 @@ input[type="submit"] {
 }
 
 input[type="button"]:hover {
-  	background-color: #8accc8 !important
+  	background-color: #6FA334 !important
         /*#3e8e41*/
     ;
     opacity: 0.9;
     color: white !important;
-    border: 2px solid #8accc8 !important;
+    border: 2px solid #6FA334 !important;
 }
 
 input[type="submit"]:hover {
-  	background-color: #8accc8 !important
+  	background-color: #6FA334 !important
         /*#3e8e41*/
     ;
     opacity: 0.9;
-    border: 2px solid #8accc8 !important;
+    border: 2px solid #6FA334 !important;
 }
 
 .input:hover {
@@ -132,8 +133,8 @@ input[type="submit"]:hover {
 }
 
 .popupCloseButton {
-    background-color: #fff;
-    border: 3px solid #4bb9b4 !important;
+    background-color: #E6A117;
+    border: 3px solid #012D4F !important;
     border-radius: 50px;
     cursor: pointer;
     display: inline-block;
