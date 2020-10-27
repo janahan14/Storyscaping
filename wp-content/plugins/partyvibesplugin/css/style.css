@@ -71,7 +71,7 @@ input[type="email"] {
 }
 
 input[type="email"]:focus {
-    border: 2px solid #005780 !important;
+    border: 2px solid #6FA334 !important;
 }
 
 .fas {
@@ -149,7 +149,7 @@ input[type="submit"]:hover {
     width: 35px;
     height: 35px;
     text-align: center;
-    text-decoration-color: white;
+    color: white;
 }
 
 

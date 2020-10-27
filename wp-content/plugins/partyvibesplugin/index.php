@@ -23,7 +23,7 @@ function newsletter_form()
     $content .= '<section class="form">';
     $content .= '<form action="#" id="myForm">';
     $content .= '<div class="input">';
-    $content .= '<input type="email" name="email" id="email" placeholder="Dit navn..." required><i class="fas fa-envelope"></i>';
+    $content .= '<input type="email" name="email" id="email" placeholder="Din mail..." required><i class="fas fa-envelope"></i>';
     $content .= '</div>';
   	$content .= '<div>';
  	$content .= '<input type="submit" value="Tilmeld" name="submitBtn" id="submitBtn2">';
