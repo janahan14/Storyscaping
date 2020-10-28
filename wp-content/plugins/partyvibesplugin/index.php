@@ -16,8 +16,8 @@ function newsletter_form()
     $content .= '<div class="popupCloseButton">X</div>';
   	$content .= '<section>';
     $content .= '<h3 id="velkommen">Vi har plads til dig, når vi åbner huset</h3>';
-    $content .= '<img id="logo" src=" '.plugins_url("partyvibesplugin/img/logo.png").' " ';
-    $content .= 'alt="Cheers Logo">';
+    $content .= '<img id="logo" src=" '.plugins_url("partyvibesplugin/video/calender.mp4").' " ';
+    $content .= 'alt="thlvideo">';
   	$content .= '<h5 id="tilmeld">Tilmeld dig her, og bliv opdateret, når vi holder åbent hus</h5>';
   	$content .= '</section>';
     $content .= '<section class="form">';
