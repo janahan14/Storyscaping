@@ -16,7 +16,7 @@ function newsletter_form()
     $content .= '<div class="popupCloseButton">X</div>';
   	$content .= '<section>';
     $content .= '<h3 id="velkommen">Vi har plads til dig, når vi åbner huset</h3>';
-    $content .= '<video id="logo" type="video/mp4" src=" '.plugins_url("partyvibesplugin/video/calender.mp4").' " ';
+    $content .= '<video autoplay id="logo" type="video/mp4" src=" '.plugins_url("partyvibesplugin/video/calender.mp4").' " ';
     $content .= 'alt="thlvideo">';
   	$content .= '<h5 id="tilmeld">Tilmeld dig her, og bliv opdateret, når vi holder åbent hus</h5>';
   	$content .= '</section>';
