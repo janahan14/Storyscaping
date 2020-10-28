@@ -12,7 +12,7 @@
 function newsletter_form()
 {
     $content = '';
-    $content .= '<div class="slide-fwd-center">';
+    $content .= '<div class="slide-fwd-tr">';
     $content .= '<div class="login-form">';
     $content .= '<div class="popupCloseButton">X</div>';
   	$content .= '<section>';
