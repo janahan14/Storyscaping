@@ -1,0 +1,17 @@
+/*
+ Theme Name:   Neve Child Theme
+ Theme URI:    http://personalbranding.janahan.dk/neve-child-theme/
+ Description:  Neve Child Theme based on the parent theme Neve
+ Author:       Janahan Tharmalingam
+ Author URI:   http://personalbranding.janahan.dk
+ Template:     neve
+ Version:      1.1.2
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  nevechild
+*/
+
+body {
+  background-color: purple !important;
+}
