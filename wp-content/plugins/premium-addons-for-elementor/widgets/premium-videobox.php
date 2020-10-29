@@ -479,7 +479,7 @@ class Premium_Videobox extends Widget_Base {
             ]
         );
         
-        $this->add_control('premium_video_box_icon_hor_position', 
+        $this->add_responsive_control('premium_video_box_icon_hor_position', 
             [
                 'label'         => __('Horizontal Position (%)', 'premium-addons-for-elementor'),
                 'type'          => Controls_Manager::SLIDER,
@@ -498,7 +498,7 @@ class Premium_Videobox extends Widget_Base {
             ]
         );
         
-        $this->add_control('premium_video_box_icon_ver_position', 
+        $this->add_responsive_control('premium_video_box_icon_ver_position', 
             [
                 'label'         => __('Vertical Position (%)', 'premium-addons-for-elementor'),
                 'type'          => Controls_Manager::SLIDER,
@@ -546,7 +546,7 @@ class Premium_Videobox extends Widget_Base {
             ]
         );
 
-        $this->add_control('premium_video_box_description_hor_position', 
+        $this->add_responsive_control('premium_video_box_description_hor_position', 
             [
                 'label'         => __('Horizontal Position (%)', 'premium-addons-for-elementor'),
                 'type'          => Controls_Manager::SLIDER,
@@ -565,7 +565,7 @@ class Premium_Videobox extends Widget_Base {
             ]
         );
         
-        $this->add_control('premium_video_box_description_ver_position', 
+        $this->add_responsive_control('premium_video_box_description_ver_position', 
             [
                 'label'         => __('Vertical Position (%)', 'premium-addons-for-elementor'),
                 'type'          => Controls_Manager::SLIDER,

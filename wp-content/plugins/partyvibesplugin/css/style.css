@@ -20,8 +20,8 @@ body {
     position: absolute !important;
     padding: 30px 30px 10px 30px !important;
     background: #D4D6D3;
-    left: 35% !important;
-    margin-top: -18% !important;
+    left: 79% !important;
+    margin-top: -39% !important;
     -webkit-transform: translateX(-50%) translateY(-50%) !important;
     transform: translateX(-50%) translateY(-50%) !important;
     border: 5px solid #012D4F !important;
@@ -33,7 +33,7 @@ body {
 }
 
 #velkommen {
-    color: #ffffff;
+    color: #012d4f;
     font-family: 'Montserrat', sans-serif;
     text-transform: none;
 }

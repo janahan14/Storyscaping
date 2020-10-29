@@ -12,3 +12,16 @@
  Text Domain:  astrachild
 */ 
 
+.elementor-widget-image .elementor-image img {
+    vertical-align: middle;
+    display: inline-block;
+  
+  
+-webkit-animation: fadeIn ease 10;
+}
+
+@-webkit-keyframes fadeIn {
+0% {opacity:0;}
+100% {opacity:1;}
+}
+}
